@@ -7,3 +7,5 @@ Eu tenho um desafio pra você: criar um site onde você possa indicar quatro vid
 
 
 ![youtubethumb](image/image-01.png)
+
+Ao clicar em qualquer uma das thumbs abrirá uma página especial para cada um.
